@@ -1,23 +1,36 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Historia',
+    'Quem foi o primeiro imperador da china?',
+    'Qin Shihuang'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual o pais com maior densidade demografica?',
+    'Monaco'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quimica',
+    'Qual acido consegue dissolver a carne humana?',
+    'Acido fluoridrico'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Mitologia',
+    'Quem e o deus da guerra Grego?',
+    'Ares'
 )
+
+criaCartao(
+    'Matematica',
+    'quanto e 10!',
+    '3.628.800'
+)
+
+criaCartao(
+    'Jogos de videogame',
+    'Quem matou Ares em God Of War',
+    'Kratos'
+)
+
